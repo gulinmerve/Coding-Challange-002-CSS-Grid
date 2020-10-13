@@ -2,7 +2,8 @@ body{
   margin: 0;
   padding: 0;
   font-size: 1.5rem;
-  color: rgb(33, 218, 224);
+  color: rgb(224, 221, 33);
+  font-weight: bold;
 }
 
 .main-container{
